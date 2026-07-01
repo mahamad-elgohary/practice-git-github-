@@ -344,4 +344,4 @@ You have successfully completed the Git Mastery Lab when you can confidently exp
 ---
 
 # Final Goal
-##note the solutions is at the local repo of the dev. and not listed here 
+## note the solutions is at the local repo of the dev. and scattered across the commits of this project to get them ask for it
