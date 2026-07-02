@@ -344,4 +344,4 @@ You have successfully completed the Git Mastery Lab when you can confidently exp
 ---
 
 
-## note the solutions is at the local repo of the dev. ,to get them ask just for them through ashrefm231@gmail.com
+## note the solutions is at the local repo of the dev. ,to get them just ask for them through ashrefm231@gmail.com
